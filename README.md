@@ -63,3 +63,6 @@ echo "Tests succeeded comencing push"
 ![05-github-actions.png](./readme-files/05-github-actions.png)
 
 6. Merge and clean-up of feature-branch
+
+![06-main-merge-feature-branch.png](./readme-files/06-main-merge-feature-branch.png)
+![06-main-merge-feature-branch-clean-up.png](./readme-files/06-main-merge-feature-branch-clean-up.png)
