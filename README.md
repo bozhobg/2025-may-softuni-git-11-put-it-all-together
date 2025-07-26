@@ -56,4 +56,10 @@ echo "Tests succeeded comencing push"
 
 ![04-rebasing-feature-onto-main-with-force-push-to-remote.png](./readme-files/04-rebasing-feature-onto-main-with-force-push-to-remote.png)
 
-4. Adding GitHub Actions and triggering them on commit
+5. Adding GitHub Actions and triggering them on push to remote
+   1. firstly malformatted yaml configuration
+   2. second push verifies maven project - runs tests as action
+   
+![05-github-actions.png](./readme-files/05-github-actions.png)
+
+6. Merge and clean-up of feature-branch
