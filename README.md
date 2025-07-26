@@ -51,3 +51,9 @@ echo "Tests succeeded comencing push"
 
 ![03-pushing-with-failing-tests-1.png](./readme-files/03-pushing-with-failing-tests-1.png)
 ![03-pushing-with-failing-tests-2.png](./readme-files/03-pushing-with-failing-tests-2.png)
+
+4. Rebasing feature-branch onto main with push --force-with-lease to push new history to remote
+
+![04-rebasing-feature-onto-main-with-force-push-to-remote.png](./readme-files/04-rebasing-feature-onto-main-with-force-push-to-remote.png)
+
+4. Adding GitHub Actions and triggering them on commit
