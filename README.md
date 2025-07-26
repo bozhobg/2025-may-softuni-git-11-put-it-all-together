@@ -30,7 +30,7 @@ echo "Code up to standard"
 
 ![03-pre-commit-format-check.png](./readme-files/03-pre-commit-format-check.png)
 
-![03-pre-commit-hook-formatted](./readme-files/03-pre-commit-format-check03-pre-commit-hook-formatted.png)
+![03-pre-commit-hook-formatted](./readme-files/03-pre-commit-hook-formatted.png)
 
 .git/hooks/pre-push to run tests: 
 
