@@ -49,5 +49,5 @@ fi
 echo "Tests succeeded comencing push"
 ```
 
-![03-pushing-with-failing-tests-1.png](03-pushing-with-failing-tests-1.png)
-![03-pushing-with-failing-tests-2.png](03-pushing-with-failing-tests-1.png)
+![03-pushing-with-failing-tests-1.png](./readme-files/03-pushing-with-failing-tests-1.png)
+![03-pushing-with-failing-tests-2.png](./readme-files/03-pushing-with-failing-tests-2.png)
